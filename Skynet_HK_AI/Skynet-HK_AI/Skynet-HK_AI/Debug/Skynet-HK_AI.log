@@ -1,0 +1,4 @@
+﻿  Skynet-HK_AI.cpp
+D:\jacqu\UAT\C++ Programming I\InteractiveFiction_092020\InteractiveFiction_092020\Skynet_HK_AI\Skynet-HK_AI\Skynet-HK_AI\Skynet-HK_AI.cpp(191): warning C4715: 'BinarySearch': not all control paths return a value
+D:\jacqu\UAT\C++ Programming I\InteractiveFiction_092020\InteractiveFiction_092020\Skynet_HK_AI\Skynet-HK_AI\Skynet-HK_AI\Skynet-HK_AI.cpp(237): warning C4715: 'LinearSearch': not all control paths return a value
+  Skynet-HK_AI.vcxproj -> D:\jacqu\UAT\C++ Programming I\InteractiveFiction_092020\InteractiveFiction_092020\Skynet_HK_AI\Skynet-HK_AI\Debug\Skynet-HK_AI.exe
